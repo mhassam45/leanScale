@@ -15,8 +15,9 @@ Plates Co - Shopping Basket System is a simple Node.js application that simulate
 - Node.js (version 14 or later)
 
 ### Steps
-1. Clone this repository:
+1. Clone this repository and run code:
    ```sh
    git clone <https://github.com/mhassam45/leanScale.git>
    cd <leanScale>
    node index.js
+   ```
